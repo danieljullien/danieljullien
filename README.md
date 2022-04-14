@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniel Jullien</h1>
 <h3 align="center">A data lover, Data Scientist and Engineer.</h3>
 
-### Blogs posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
