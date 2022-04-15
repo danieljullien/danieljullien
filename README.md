@@ -9,6 +9,7 @@
 ```python
 
 import pandas as pd
+
 class DataScientist():
       def __init__(self):
             self.name = "Daniel Jullien"
