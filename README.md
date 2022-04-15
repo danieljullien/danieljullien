@@ -18,7 +18,7 @@ class DataScientist():
             
       def skills(self):
             about_daniel = pd.DataFrame({
-            'table_name': ['Igor's Skills'],
+            'table_name': ['Daniel's Skills'],
             'main_technologies': ['Python', 'Pandas', 'Matplotlib', 'Numpy', 'Machine Learnig'],
             'xp': ['2 years', '2 year' , '2 year', '2 year', '1 year']})
             
