@@ -10,7 +10,7 @@
 - I'm currently working on a Regression Challenge from QuintoAndar and on a Web Scraping project
 
 
-### Blog posts
+<!--### Blog posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
