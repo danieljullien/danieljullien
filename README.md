@@ -6,6 +6,8 @@
 <a href="https://medium.com/@danieljullien" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@danieljullien" /></a>
 </p>
 
+- I'm currently taking a Data Science and Machine Learning course at Tera
+- I'm currently working on a Regression Challenge from QuintoAndar and on a Web Scraping project
 
 
 ### Blog posts
