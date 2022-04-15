@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniel Jullien</h1>
+<h1 align="left">Hi!</h1>
 <h3 align="left">A data lover, Data Scientist and Engineer.</h3>
 
 ### Blog posts
@@ -6,9 +6,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where to find me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daniel-jullien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-jullien" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniel-jullien" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="daniel-jullien" height="30" width="40" /></a>
 <a href="https://medium.com/@danieljullien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@danieljullien" height="30" width="40" /></a>
 </p>
 
