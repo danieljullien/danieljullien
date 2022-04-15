@@ -6,6 +6,27 @@
 <a href="https://medium.com/@danieljullien" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@danieljullien" /></a>
 </p>
 
+'''
+import pandas as pd
+
+class DataScientist():
+      def __init__(self):
+            self.name = "Daniel Jullien"
+            self.role = "Data Scientist"
+            self.languages = ["pt_BR", "en_US", "fr_FR"]
+            
+      def skills(self):
+            about_daniel = pd.DataFrame({
+           'table_name': ['Igor's Skills'],
+           'main_technologies': ['Python', 'Pandas', 'Matplotlib', 'Numpy', 'Machine Learnig'], 
+           'xp': ['2 years', '2 year' , '2 year', '2 year', '1 year']})
+           
+           print(about_daniel)
+      
+me = DataScientist()
+me.skills()      
+'''
+
 - I'm an Engineer, recently graduated at UNICAMP 
 - I'm currently taking a Data Science and Machine Learning course at [Tera](https://somostera.com/cursos/data-science-machine-learning)
 - I'm currently working on a Regression Challenge from QuintoAndar and on a Web Scraping project
