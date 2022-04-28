@@ -1,5 +1,5 @@
 <h1 align="left">Hello world </h1>
-<h3 align="left">I'm Daniel!. A data lover, Engineer and Data Scientist.</h3>
+<h3 align="left">I'm Daniel! A data lover, Engineer and Data Scientist.</h3>
 
 <p align="left"> 
 <a href="https://linkedin.com/in/daniel-jullien" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="daniel-jullien" /></a>
