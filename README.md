@@ -28,7 +28,7 @@ me = DataScientist()
 me.skills()      
 ```
 
-- I'm an Engineer, recently graduated at UNICAMP 
+- I'm an Engineer, graduated at UNICAMP 
 - I'm currently taking a Data Science and Machine Learning course at [Tera](https://somostera.com/cursos/data-science-machine-learning)
 - I'm currently working on a House Pricing Challenge from QuintoAndar and on a Fraud Detection Challenge from NVIDIA.
 
