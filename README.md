@@ -29,7 +29,7 @@ me.skills()
 
 - I'm an Engineer, graduated at UNICAMP 
 - I'm currently taking a Data Science and Machine Learning course at [Tera](https://somostera.com/cursos/data-science-machine-learning)
-- I'm currently working on a Book Recomendation System based on Reviews.
+- I'm currently working on a Book Recomendation System based on Reviews and on a Churn Prediction Challenge set by Tera/LuizaLabs.
 
 
 <!--### Blog posts-->
